@@ -103,8 +103,6 @@ Accuracy reflects the overall correct predictions among all the test images. The
 AUC is computed for each class to measure the capability of distinguishing between positive and negative classes at various threshold settings. 
 The AP is the weighted average of precisions, while the mAP for all samples is the mean value of the AP scores for each class.
 
-The results of ChestDR, ColonPath and Endo in MedFMC dataset and their corresponding configs on each task are shown as below.
-
 ### Results
 
 #### Few-shot Learning Baseline
