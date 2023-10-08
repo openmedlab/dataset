@@ -118,7 +118,7 @@ The results are shown as below:
     <a href="https://"><img width="600px" height="auto" src="https://user-images.githubusercontent.com/24582831/273426314-f184616b-2288-4a8d-9496-b27fe8857b09.png"></a>
 </div>
 
-### Transfer Learning Baseline
+#### Transfer Learning Baseline
 
 We run the fine-tuning experiments using three representative networks, including DenseNet, EfficientNet, and Swin Trans-former, on the five medical image datasets.
 
