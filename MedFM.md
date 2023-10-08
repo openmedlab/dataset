@@ -97,7 +97,7 @@ The related official code is available [here](https://github.com/openmedlab/MedF
 ### Evaluation metric
 
 To evaluate the performance of experimental results, we compute the overall accuracy (Acc) and area under the receiver operating characteristic curve (AUC) for the multi-class classification tasks 
-in the datasets of ColonPath, and the mean average precision (mAP) and AUC for the multi-label classification tasks in the datasets of ChestDR and Endo. In the MedFM Challenge, the averaged result of all Acc, mAP and AUC would be final evaluation metric in ranking (see below).
+in the datasets of ColonPath, NeoJaundice and Retino, and we compute the mean average precision (mAP) and AUC for the multi-label classification tasks in the datasets of ChestDR and Endo. In the MedFM Challenge, the averaged result of all Acc, mAP and AUC would be final evaluation metric in ranking (see below).
 
 Accuracy reflects the overall correct predictions among all the test images. The predicted label is determined with the maximum softmax outputs in the multi-class classification task. 
 AUC is computed for each class to measure the capability of distinguishing between positive and negative classes at various threshold settings. 
