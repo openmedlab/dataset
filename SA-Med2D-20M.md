@@ -68,4 +68,14 @@ This project is released under the [Apache 2.0 license](LICENSE).
   journal={arXiv preprint arXiv:2311.11969},
   year={2023}
 }
+
+@misc{cheng2023sammed2d,
+      title={SAM-Med2D}, 
+      author={Junlong Cheng and Jin Ye and Zhongying Deng and Jianpin Chen and Tianbin Li and Haoyu Wang and Yanzhou Su and
+              Ziyan Huang and Jilong Chen and Lei Jiangand Hui Sun and Junjun He and Shaoting Zhang and Min Zhu and Yu Qiao},
+      year={2023},
+      eprint={2308.16184},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
