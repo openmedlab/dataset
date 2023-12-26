@@ -94,6 +94,15 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## 🖊️ Citation
 
 ```
-TODO
+Luo, X., Fu, J., Zhong, Y., Liu, S., Han, B., Astaraki, M., Bendazzoli, S., Toma-Dasu, I., Ye, Y., Chen, Z. and Xia, Y., 2023. SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma. arXiv preprint arXiv:2312.09576.
+
+or
+
+@article{luo2023segrap2023,
+title={SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma},
+author={Luo, Xiangde and Fu, Jia and Zhong, Yunxin and Liu, Shuolin and Han, Bing and Astaraki, Mehdi and Bendazzoli, Simone and Toma-Dasu, Iuliana and Ye, Yiwen and Chen, Ziyang and others},
+journal={arXiv preprint arXiv:2312.09576},
+year={2023}
+}
 ```
 
